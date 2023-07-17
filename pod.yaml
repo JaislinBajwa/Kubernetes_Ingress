@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-app-pod
+  labels:
+    app: my-app-pod  # Add a label to match the Ingress file
+spec:
+  containers:
+    - name: my-container
+      image: jaislinbajwa01/jaislin:v1  # Add the image tag
+      ports:
+        - containerPort: 8000
