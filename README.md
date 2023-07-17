@@ -43,7 +43,8 @@ c) notepad.exe hosts
 
 d) Add your xyz.com below in the host file like this
 
-![image](https://github.com/JaislinBajwa/Kubernetes_Ingress/assets/89400877/83e709a5-153a-4d23-8b67-eb44dacd1803)
+![image](https://github.com/JaislinBajwa/Kubernetes_Ingress/assets/89400877/f1649bee-1ddb-444b-8e10-08854389728d)
+
 
 
 
